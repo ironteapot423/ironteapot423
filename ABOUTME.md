@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A(so far)
-- 😄 Pronouns: He, his
+- 😄 Pronouns: He, him
 - ⚡ Fun fact: i created account on github only for download a file
 
 <!---
